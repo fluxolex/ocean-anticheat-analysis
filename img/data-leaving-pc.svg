@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" width="1000" height="760">
+<rect width="1000" height="760" fill="#ffffff"/>
+<text x="500" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1b2631">What leaves the computer during a scan</text>
+<text x="500" y="62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#566573">Data categories from the final report and alerts (static analysis of the Windows client)</text>
+<rect x="205" y="78" width="14" height="14" rx="3" fill="#c0392b"/>
+<text x="225" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">highly sensitive</text>
+<rect x="355" y="78" width="14" height="14" rx="3" fill="#d68910"/>
+<text x="375" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">sensitive</text>
+<rect x="505" y="78" width="14" height="14" rx="3" fill="#2e86c1"/>
+<text x="525" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">technical</text>
+<rect x="655" y="78" width="14" height="14" rx="3" fill="#7d3c98"/>
+<text x="675" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">to third parties</text>
+<rect x="25" y="110" width="300" height="168" rx="12" fill="#ffffff" stroke="#c0392b" stroke-width="2.5"/>
+<rect x="25" y="110" width="300" height="40" rx="12" fill="#c0392b"/>
+<rect x="25" y="136" width="300" height="14" fill="#c0392b"/>
+<text x="175" y="137" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Images</text>
+<text x="43" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• foreground window capture (JPEG)</text>
+<text x="43" y="204" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• FULL-screen capture (PNG)</text>
+<text x="43" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• in every alert, even before</text>
+<text x="43" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• the terms are accepted</text>
+<rect x="345" y="110" width="300" height="168" rx="12" fill="#ffffff" stroke="#c0392b" stroke-width="2.5"/>
+<rect x="345" y="110" width="300" height="40" rx="12" fill="#c0392b"/>
+<rect x="345" y="136" width="300" height="14" fill="#c0392b"/>
+<text x="495" y="137" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Identity</text>
+<text x="363" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• HWID: CPU, GPU, disk, RAM</text>
+<text x="363" y="204" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• Discord account identifiers</text>
+<text x="363" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• country and VPN (from public IP)</text>
+<text x="363" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• cross-server matching</text>
+<rect x="665" y="110" width="300" height="168" rx="12" fill="#ffffff" stroke="#c0392b" stroke-width="2.5"/>
+<rect x="665" y="110" width="300" height="40" rx="12" fill="#c0392b"/>
+<rect x="665" y="136" width="300" height="14" fill="#c0392b"/>
+<text x="815" y="137" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Command history</text>
+<text x="683" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• PowerShell ConsoleHost_history</text>
+<text x="683" y="204" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• full commands</text>
+<text x="683" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• no secret redaction</text>
+<text x="683" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• (passwords, tokens, keys)</text>
+<rect x="25" y="295" width="300" height="168" rx="12" fill="#ffffff" stroke="#d68910" stroke-width="2.5"/>
+<rect x="25" y="295" width="300" height="40" rx="12" fill="#d68910"/>
+<rect x="25" y="321" width="300" height="14" fill="#d68910"/>
+<text x="175" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Execution traces</text>
+<text x="43" y="365" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• Prefetch, Amcache, ShimCache</text>
+<text x="43" y="389" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• BAM, UserAssist, SRUM</text>
+<text x="43" y="413" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• ShellBags, PCA, Activities</text>
+<text x="43" y="437" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• list of executed programs</text>
+<rect x="345" y="295" width="300" height="168" rx="12" fill="#ffffff" stroke="#d68910" stroke-width="2.5"/>
+<rect x="345" y="295" width="300" height="40" rx="12" fill="#d68910"/>
+<rect x="345" y="321" width="300" height="14" fill="#d68910"/>
+<text x="495" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">File system</text>
+<text x="363" y="365" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• $MFT, $LogFile, USN journal</text>
+<text x="363" y="389" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• Recycle Bin, ADS streams</text>
+<text x="363" y="413" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• file hashes</text>
+<text x="363" y="437" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• mod folders and files</text>
+<rect x="665" y="295" width="300" height="168" rx="12" fill="#ffffff" stroke="#d68910" stroke-width="2.5"/>
+<rect x="665" y="295" width="300" height="40" rx="12" fill="#d68910"/>
+<rect x="665" y="321" width="300" height="14" fill="#d68910"/>
+<text x="815" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Windows and processes</text>
+<text x="683" y="365" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• window titles (WINDOW_TEXT)</text>
+<text x="683" y="389" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• process list</text>
+<text x="683" y="413" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• process memory (incl. Discord,</text>
+<text x="683" y="437" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• Steam, Spotify via Lua)</text>
+<rect x="25" y="480" width="300" height="168" rx="12" fill="#ffffff" stroke="#2e86c1" stroke-width="2.5"/>
+<rect x="25" y="480" width="300" height="40" rx="12" fill="#2e86c1"/>
+<rect x="25" y="506" width="300" height="14" fill="#2e86c1"/>
+<text x="175" y="507" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Events</text>
+<text x="43" y="550" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• Windows event logs</text>
+<text x="43" y="574" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• Sysmon (raw JSON)</text>
+<text x="43" y="598" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• Kernel Logger, boot events</text>
+<text x="43" y="622" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• log-clearing detection</text>
+<rect x="345" y="480" width="300" height="168" rx="12" fill="#ffffff" stroke="#2e86c1" stroke-width="2.5"/>
+<rect x="345" y="480" width="300" height="40" rx="12" fill="#2e86c1"/>
+<rect x="345" y="506" width="300" height="14" fill="#2e86c1"/>
+<text x="495" y="507" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Hardware and system</text>
+<text x="363" y="550" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• USB devices, monitors</text>
+<text x="363" y="574" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• DMA devices, Arduino boards</text>
+<text x="363" y="598" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• antivirus, Windows version</text>
+<text x="363" y="622" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• install date, boot time</text>
+<rect x="665" y="480" width="300" height="168" rx="12" fill="#ffffff" stroke="#7d3c98" stroke-width="2.5"/>
+<rect x="665" y="480" width="300" height="40" rx="12" fill="#7d3c98"/>
+<rect x="665" y="506" width="300" height="14" fill="#7d3c98"/>
+<text x="815" y="507" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">To third parties</text>
+<text x="683" y="550" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• ifconfig.me, proxycheck.io: IP</text>
+<text x="683" y="574" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• loldrivers.io, sysinternals</text>
+<text x="683" y="598" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• DNS: Cloudflare, Google, Quad9</text>
+<text x="683" y="622" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• NTP: Microsoft and others</text>
+<rect x="25" y="670" width="940" height="70" rx="12" fill="#fdedec" stroke="#c0392b" stroke-width="2"/>
+<text x="495" y="698" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#922b21">Content is encrypted with AES-CBC using passwords baked into the program:</text>
+<text x="495" y="722" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#922b21">anyone with the binary and a captured session can decrypt it.</text>
+</svg>

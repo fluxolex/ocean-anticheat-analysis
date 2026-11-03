@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" width="1000" height="760">
+<rect width="1000" height="760" fill="#ffffff"/>
+<text x="500" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1b2631">Co opuszcza komputer podczas skanu</text>
+<text x="500" y="62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#566573">Kategorie danych z raportu końcowego i alertów (analiza statyczna klienta Windows)</text>
+<rect x="205" y="78" width="14" height="14" rx="3" fill="#c0392b"/>
+<text x="225" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">bardzo wrażliwe</text>
+<rect x="355" y="78" width="14" height="14" rx="3" fill="#d68910"/>
+<text x="375" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">wrażliwe</text>
+<rect x="505" y="78" width="14" height="14" rx="3" fill="#2e86c1"/>
+<text x="525" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">techniczne</text>
+<rect x="655" y="78" width="14" height="14" rx="3" fill="#7d3c98"/>
+<text x="675" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">do firm trzecich</text>
+<rect x="25" y="110" width="300" height="168" rx="12" fill="#ffffff" stroke="#c0392b" stroke-width="2.5"/>
+<rect x="25" y="110" width="300" height="40" rx="12" fill="#c0392b"/>
+<rect x="25" y="136" width="300" height="14" fill="#c0392b"/>
+<text x="175" y="137" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Obraz</text>
+<text x="43" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• zrzut okna na pierwszym planie (JPEG)</text>
+<text x="43" y="204" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• zrzut CAŁEGO ekranu (PNG)</text>
+<text x="43" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• w każdym alercie, także przed</text>
+<text x="43" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• akceptacją regulaminu</text>
+<rect x="345" y="110" width="300" height="168" rx="12" fill="#ffffff" stroke="#c0392b" stroke-width="2.5"/>
+<rect x="345" y="110" width="300" height="40" rx="12" fill="#c0392b"/>
+<rect x="345" y="136" width="300" height="14" fill="#c0392b"/>
+<text x="495" y="137" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Tożsamość</text>
+<text x="363" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• HWID: CPU, GPU, dysk, RAM</text>
+<text x="363" y="204" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• identyfikatory kont Discord</text>
+<text x="363" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• kraj i VPN (z publicznego IP)</text>
+<text x="363" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• dopasowanie między serwerami</text>
+<rect x="665" y="110" width="300" height="168" rx="12" fill="#ffffff" stroke="#c0392b" stroke-width="2.5"/>
+<rect x="665" y="110" width="300" height="40" rx="12" fill="#c0392b"/>
+<rect x="665" y="136" width="300" height="14" fill="#c0392b"/>
+<text x="815" y="137" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Historia poleceń</text>
+<text x="683" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• PowerShell ConsoleHost_history</text>
+<text x="683" y="204" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• pełne polecenia</text>
+<text x="683" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• bez redakcji sekretów</text>
+<text x="683" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• (hasła, tokeny, klucze)</text>
+<rect x="25" y="295" width="300" height="168" rx="12" fill="#ffffff" stroke="#d68910" stroke-width="2.5"/>
+<rect x="25" y="295" width="300" height="40" rx="12" fill="#d68910"/>
+<rect x="25" y="321" width="300" height="14" fill="#d68910"/>
+<text x="175" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Ślady uruchomień</text>
+<text x="43" y="365" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• Prefetch, Amcache, ShimCache</text>
+<text x="43" y="389" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• BAM, UserAssist, SRUM</text>
+<text x="43" y="413" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• ShellBags, PCA, Activities</text>
+<text x="43" y="437" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• lista uruchomionych programów</text>
+<rect x="345" y="295" width="300" height="168" rx="12" fill="#ffffff" stroke="#d68910" stroke-width="2.5"/>
+<rect x="345" y="295" width="300" height="40" rx="12" fill="#d68910"/>
+<rect x="345" y="321" width="300" height="14" fill="#d68910"/>
+<text x="495" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">System plików</text>
+<text x="363" y="365" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• $MFT, $LogFile, dziennik USN</text>
+<text x="363" y="389" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• Kosz, strumienie ADS</text>
+<text x="363" y="413" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• skróty plików</text>
+<text x="363" y="437" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• foldery i pliki modów</text>
+<rect x="665" y="295" width="300" height="168" rx="12" fill="#ffffff" stroke="#d68910" stroke-width="2.5"/>
+<rect x="665" y="295" width="300" height="40" rx="12" fill="#d68910"/>
+<rect x="665" y="321" width="300" height="14" fill="#d68910"/>
+<text x="815" y="322" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Okna i procesy</text>
+<text x="683" y="365" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• teksty okien (WINDOW_TEXT)</text>
+<text x="683" y="389" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• lista procesów</text>
+<text x="683" y="413" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• pamięć procesów (też Discord,</text>
+<text x="683" y="437" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• Steam, Spotify przez Lua)</text>
+<rect x="25" y="480" width="300" height="168" rx="12" fill="#ffffff" stroke="#2e86c1" stroke-width="2.5"/>
+<rect x="25" y="480" width="300" height="40" rx="12" fill="#2e86c1"/>
+<rect x="25" y="506" width="300" height="14" fill="#2e86c1"/>
+<text x="175" y="507" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Zdarzenia</text>
+<text x="43" y="550" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• dzienniki Windows</text>
+<text x="43" y="574" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• Sysmon (surowy JSON)</text>
+<text x="43" y="598" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• Kernel Logger, rozruch</text>
+<text x="43" y="622" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• wykrycie czyszczenia logów</text>
+<rect x="345" y="480" width="300" height="168" rx="12" fill="#ffffff" stroke="#2e86c1" stroke-width="2.5"/>
+<rect x="345" y="480" width="300" height="40" rx="12" fill="#2e86c1"/>
+<rect x="345" y="506" width="300" height="14" fill="#2e86c1"/>
+<text x="495" y="507" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Sprzęt i system</text>
+<text x="363" y="550" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• urządzenia USB, monitory</text>
+<text x="363" y="574" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• urządzenia DMA, płytki Arduino</text>
+<text x="363" y="598" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• antywirusy, wersja Windows</text>
+<text x="363" y="622" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• data instalacji, start systemu</text>
+<rect x="665" y="480" width="300" height="168" rx="12" fill="#ffffff" stroke="#7d3c98" stroke-width="2.5"/>
+<rect x="665" y="480" width="300" height="40" rx="12" fill="#7d3c98"/>
+<rect x="665" y="506" width="300" height="14" fill="#7d3c98"/>
+<text x="815" y="507" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">Do firm trzecich</text>
+<text x="683" y="550" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• ifconfig.me, proxycheck.io: IP</text>
+<text x="683" y="574" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• loldrivers.io, sysinternals</text>
+<text x="683" y="598" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• DNS: Cloudflare, Google, Quad9</text>
+<text x="683" y="622" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#1b2631">• NTP: Microsoft i inne</text>
+<rect x="25" y="670" width="940" height="70" rx="12" fill="#fdedec" stroke="#c0392b" stroke-width="2"/>
+<text x="495" y="698" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#922b21">Treść jest szyfrowana AES-CBC hasłami wbudowanymi w program:</text>
+<text x="495" y="722" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#922b21">odszyfruje ją każdy, kto ma binarkę i przechwycony ruch.</text>
+</svg>

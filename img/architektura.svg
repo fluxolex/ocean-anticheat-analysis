@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" width="1000" height="680">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1b2631"/></marker><marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker></defs>
+<rect width="1000" height="680" fill="#ffffff"/>
+<text x="500" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#1b2631">Architektura klienta Ocean (Windows)</text>
+<rect x="20" y="50" width="600" height="610" rx="14" fill="#fbfcfc" stroke="#566573" stroke-width="2"/>
+<text x="40" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#566573">Komputer użytkownika</text>
+<rect x="40" y="92" width="560" height="318" rx="10" fill="#eaf2f8" stroke="#85929e" stroke-width="1"/>
+<text x="55" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#2e4053">Tryb użytkownika (administrator)</text>
+<rect x="60" y="130" width="230" height="115" rx="10" fill="#ffffff" stroke="#1b4f72" stroke-width="2"/>
+<text x="175" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#1b2631">ocean.exe</text>
+<text x="175" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#1b2631">Go + garble, VMProtect</text>
+<text x="175" y="204" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#1b2631">requireAdministrator</text>
+<text x="175" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#1b2631">PPL nadane przez DKOM</text>
+<rect x="320" y="130" width="260" height="62" rx="10" fill="#ffffff" stroke="#1b4f72" stroke-width="2"/>
+<text x="450" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#1b2631">Reguły YARA + skrypty Lua</text>
+<text x="450" y="177" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1b2631">pobierane z serwera przy skanie</text>
+<rect x="320" y="204" width="260" height="100" rx="10" fill="#fef5e7" stroke="#d68910" stroke-width="2"/>
+<text x="450" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#1b2631">Trwałe zmiany w systemie</text>
+<text x="450" y="249" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1b2631">hosts · trasy · netsh persistent</text>
+<text x="450" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1b2631">rejestr · zegar · w32tm</text>
+<text x="450" y="291" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1b2631">Sysmon64 zostaje po skanie</text>
+<rect x="320" y="318" width="260" height="62" rx="10" fill="#fdedec" stroke="#c0392b" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="450" y="344" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#922b21">Dowolny inny proces z dostępem</text>
+<text x="450" y="364" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#922b21">do urządzenia (np. malware z adminem)</text>
+<rect x="40" y="425" width="560" height="220" rx="10" fill="#fdf2f2" stroke="#c0392b" stroke-width="1"/>
+<text x="55" y="447" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#922b21">Tryb jądra</text>
+<rect x="60" y="465" width="250" height="120" rx="10" fill="#ffffff" stroke="#c0392b" stroke-width="2.5"/>
+<text x="185" y="493" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#922b21">OceanGraper.sys</text>
+<text x="185" y="515" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="normal" text-anchor="middle" fill="#1b2631">\Device\facebook-media</text>
+<text x="185" y="537" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1b2631">podpis atestacyjny Microsoft</text>
+<text x="185" y="559" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1b2631">brak SDDL i kontroli wywołującego</text>
+<rect x="350" y="470" width="235" height="40" rx="8" fill="#ffffff" stroke="#922b21" stroke-width="2"/>
+<text x="467" y="495" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1b2631">Pamięć fizyczna: odczyt / ZAPIS</text>
+<path d="M310,525 C330,525 330,490 348,490" fill="none" stroke="#922b21" stroke-width="2.2" marker-end="url(#r)"/>
+<rect x="350" y="525" width="235" height="40" rx="8" fill="#ffffff" stroke="#922b21" stroke-width="2"/>
+<text x="467" y="550" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1b2631">EPROCESS.Protection (PPL)</text>
+<path d="M310,525 C330,525 330,545 348,545" fill="none" stroke="#922b21" stroke-width="2.2" marker-end="url(#r)"/>
+<rect x="350" y="580" width="235" height="40" rx="8" fill="#ffffff" stroke="#922b21" stroke-width="2"/>
+<text x="467" y="605" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1b2631">Pamięć innych procesów</text>
+<path d="M310,525 C330,525 330,600 348,600" fill="none" stroke="#922b21" stroke-width="2.2" marker-end="url(#r)"/>
+<path d="M175,245 V463" fill="none" stroke="#1b2631" stroke-width="2.2" marker-end="url(#a)"/>
+<text x="185" y="372" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#1b2631">DeviceIoControl</text>
+<text x="185" y="390" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="normal" text-anchor="start" fill="#1b2631">\\.\facebook-media</text>
+<path d="M380,380 L300,463" fill="none" stroke="#c0392b" stroke-width="2.2" stroke-dasharray="7 5" marker-end="url(#r)"/>
+<text x="392" y="401" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#c0392b">brak kontroli wywołującego</text>
+<path d="M110,245 V417 H648" fill="none" stroke="#1b2631" stroke-width="2.2" marker-end="url(#a)"/>
+<path d="M235,130 V64 H648" fill="none" stroke="#1b2631" stroke-width="2.2" marker-end="url(#a)"/>
+<text x="440" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1b2631">HTTPS: dane skanu, zrzuty ekranu, raport</text>
+<path d="M650,165 H584" fill="none" stroke="#1b2631" stroke-width="2.2" marker-end="url(#a)"/>
+<text x="616" y="157" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#566573">reguły</text>
+<rect x="650" y="50" width="330" height="290" rx="10" fill="#eaf2f8" stroke="#1b4f72" stroke-width="2.5"/>
+<text x="815" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#1b2631">api.anticheat.ac</text>
+<text x="815" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#566573">(za Cloudflare)</text>
+<text x="664" y="128" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1b2631">POST /validations/checkpin, validate-pin</text>
+<text x="664" y="150" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1b2631">GET  /rancio/y/chicho/horaarg</text>
+<text x="664" y="172" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1b2631">POST /pins/&lt;PIN&gt;/&lt;token&gt;/status  ×19</text>
+<text x="664" y="194" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1b2631">POST /validations/r, /r/d  (alerty)</text>
+<text x="664" y="216" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1b2631">POST /results/set/&lt;PIN&gt;  (raport)</text>
+<text x="664" y="238" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1b2631">GET  /custom-gui/theme/&lt;ID&gt;</text>
+<line x1="664" y1="268" x2="966" y2="268" stroke="#85929e" stroke-width="1"/>
+<text x="815" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#922b21">TLS 1.2 bez przypinania certyfikatu</text>
+<text x="815" y="314" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#922b21">AES-CBC ze stałymi hasłami w binarce</text>
+<rect x="650" y="370" width="330" height="220" rx="10" fill="#f5eef8" stroke="#7d3c98" stroke-width="2.5"/>
+<text x="815" y="398" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1b2631">Usługi zewnętrzne</text>
+<text x="664" y="428" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">ifconfig.me: publiczne IP</text>
+<text x="664" y="450" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">proxycheck.io: VPN i kraj (z IP)</text>
+<text x="664" y="472" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">loldrivers.io: lista sterowników</text>
+<text x="664" y="494" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">download.sysinternals.com: Sysmon</text>
+<text x="664" y="516" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">DNS: 1.1.1.1, 8.8.8.8, 9.9.9.9</text>
+<text x="664" y="538" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1b2631">NTP: time.windows.com i inne</text>
+<text x="815" y="575" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#566573">bez nagłówków aplikacji</text>
+</svg>
